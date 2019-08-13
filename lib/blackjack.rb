@@ -41,6 +41,7 @@ def hit?(card_total)
   if card_total == 's'
 end
   
+  if 
 end
 
 
