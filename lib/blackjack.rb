@@ -61,7 +61,7 @@ end
 
 def runner
   welcome 
-  initial_round
+  card total = initial_round
   prompt_user
   hit(card_total)
   
