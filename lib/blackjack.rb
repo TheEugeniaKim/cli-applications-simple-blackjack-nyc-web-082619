@@ -62,13 +62,13 @@ end
 def runner
   welcome 
   initial_round
-  prompt_user
-  hit(card_total)
+  # prompt_user
+  # hit(card_total)
   
-  # if 
+  # # if 
     
-  #   if card_total > 21
-  # end
+  # #   if card_total > 21
+  # # end
   
 end
     
