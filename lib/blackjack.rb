@@ -43,7 +43,7 @@ def hit?(card_total)
  end
    
    if input.downcase == 'h'
-     return card_total += deal_card
+      card_total = card_total + deal_card
 end
 
     if input.downcase != 's' && input.downcase != 'h'
