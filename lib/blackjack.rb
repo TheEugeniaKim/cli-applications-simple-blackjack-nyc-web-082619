@@ -43,8 +43,8 @@ def hit?(card_total)
     return deal_card
     if  card_total != 's' or card_total != 'h'
     return invalid_command
-  end
-  
+    end
+  end 
 end
 
 
