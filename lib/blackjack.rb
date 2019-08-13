@@ -64,6 +64,7 @@ def runner
   initial_round
   prompt_user
   hit(card_total)
+  
   # if 
     
   #   if card_total > 21
