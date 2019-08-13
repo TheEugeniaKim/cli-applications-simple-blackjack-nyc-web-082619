@@ -45,7 +45,9 @@ end
     return deal_card
   end
   
-  if card_total == 
+  if card_total != 's' or card_total != 'h'
+    return invalid_command
+  end
   
 end
 
