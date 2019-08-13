@@ -43,7 +43,7 @@ def hit?(card_total)
  end
    
    if input.downcase == 'h'
-     deal_card
+     card_total += deal_card
 end
 
 
