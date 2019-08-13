@@ -49,7 +49,8 @@ end
     if input.downcase != 's' && input.downcase != 'h'
       invalid_command
       prompt_user
-      
+      input = get_user_input
+    end
 
 
 
