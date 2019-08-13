@@ -62,13 +62,8 @@ end
 def runner
   welcome 
   card total = initial_round
-  prompt_user
-  hit(card_total)
   
-  # # if 
-    
-  # #   if card_total > 21
-  # # end
+  
   
 end
     
